@@ -9,11 +9,26 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/build.gradle" timestamp="1537985257872">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" timestamp="1537985233964">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>15</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
