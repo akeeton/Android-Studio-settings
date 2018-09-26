@@ -9,40 +9,73 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" timestamp="1537988625726">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="34" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/build.gradle" timestamp="1537985257872">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="21" column="15" />
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" timestamp="1537985233964">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="15" />
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/build.gradle" timestamp="1537988632561">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
         <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+        <mark key="." line="25" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="27" column="11" filename="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
+      <jump line="33" column="19" filename="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhNCcK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhNCcK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aXZpdHlfbWFpbiIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQCtpZC9hY3Rpdml0eV9tYWluIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkAraWQvYWN0aXZpdHlfbWFpbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9IkAraWQvYWN0aXZpdHlfbWFpbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQCtpZC9hY3Rpdml0eV9tYWluIiAvPgo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>android.support.constraint.Constraint</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>15</text>
+        <text>Layout</text>
+      </register>
+      <register name="/" type="4">
+        <text>const</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>const</last-search>
+      <last-offset />
+      <last-pattern>const</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>Lay</entry>
+        <entry>const</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
