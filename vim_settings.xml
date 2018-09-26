@@ -3,25 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" timestamp="1537989597639">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-        <mark key="^" line="39" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/ud851/FavoriteToys/app/build.gradle" timestamp="1537982904948">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" timestamp="1537988625726">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="34" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/build.gradle" timestamp="1537989819271">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Sunshine/S01.01-Exercise-CreateLayout/build.gradle" timestamp="1537992241113">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="21" column="15" />
         <mark key="^" line="21" column="15" />
@@ -32,12 +26,6 @@
         <mark key="]" line="21" column="15" />
         <mark key="." line="21" column="15" />
         <mark key="^" line="21" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/build.gradle" timestamp="1537989188023">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.03-Exercise-AddScrolling/app/src/main/res/layout/activity_main.xml" timestamp="1537989914546">
         <mark key="[" line="26" column="45" />
@@ -62,6 +50,35 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" timestamp="1537989597639">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" timestamp="1537988625726">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Sunshine/S01.01-Exercise-CreateLayout/app/build.gradle" timestamp="1537992209572">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.02-Exercise-DisplayToyList/build.gradle" timestamp="1537989188023">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/ud851-Sunshine/S01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_forecast.xml" timestamp="1537992202134">
+        <mark key="[" line="33" column="45" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="27" column="11" filename="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
@@ -69,40 +86,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxFZGl0VGV4dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZWRpdFRleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmVtcz0iMTAiCiAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9ImRhdGUiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjE2ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjMzZHAiCiAgICAgICAgdG9vbHM6dGV4dD0iQHRvb2xzOnNhbXBsZS9kYXRlL2RheV9vZl93ZWVrIiAvPgoK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhNCcK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9TY3JvbGxWaWV3Pg==</text>
+        <text>text_view</text>
       </register>
       <register name="/" type="4">
         <text>const</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxFZGl0VGV4dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZWRpdFRleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmVtcz0iMTAiCiAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9ImRhdGUiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjE2ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjMzZHAiCiAgICAgICAgdG9vbHM6dGV4dD0iQHRvb2xzOnNhbXBsZS9kYXRlL2RheV9vZl93ZWVrIiAvPgoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxFZGl0VGV4dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZWRpdFRleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmVtcz0iMTAiCiAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9ImRhdGUiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjE2ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjMzZHAiCiAgICAgICAgdG9vbHM6dGV4dD0iQHRvb2xzOnNhbXBsZS9kYXRlL2RheV9vZl93ZWVrIiAvPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JvbGx2aWUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld1R2VG95TmFtZXMudGV4dAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQuY29uc3RyYWludDpjb25zdHJhaW50LWxheW91dDoxLjAuMC1iZXRhNCcK</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdHZfd2VhdGhlcl9kYXRhIgogICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMTZkcCIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMHNwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgLz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PCEtLVRPRE8gKDcpIFJlbW92ZSB0aGUgbGluZSB0aGF0IGRlY2xhcmVzIHRoZSBpZCwgd2UgZG9uJ3QgbmVlZCBpdC0tPgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aXZpdHlfbWFpbiIK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IkhlbGxvIFdvcmxkISIK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQCtpZC9hY3Rpdml0eV9tYWluIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludExlZnRfdG9MZWZ0T2Y9IkAraWQvYWN0aXZpdHlfbWFpbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRSaWdodF90b1JpZ2h0T2Y9IkAraWQvYWN0aXZpdHlfbWFpbiIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQCtpZC9hY3Rpdml0eV9tYWluIiAvPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxFZGl0VGV4dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZWRpdFRleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmVtcz0iMTAiCiAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9ImRhdGUiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjE2ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjMzZHAiCiAgICAgICAgdG9vbHM6dGV4dD0iQHRvb2xzOnNhbXBsZS9kYXRlL2RheV9vZl93ZWVrIiAvPgoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxFZGl0VGV4dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZWRpdFRleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmVtcz0iMTAiCiAgICAgICAgYW5kcm9pZDppbnB1dFR5cGU9ImRhdGUiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVg9IjE2ZHAiCiAgICAgICAgdG9vbHM6bGF5b3V0X2VkaXRvcl9hYnNvbHV0ZVk9IjMzZHAiCiAgICAgICAgdG9vbHM6dGV4dD0iQHRvb2xzOnNhbXBsZS9kYXRlL2RheV9vZl93ZWVrIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -132,6 +149,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
