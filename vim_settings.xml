@@ -91,6 +91,9 @@
         <mark key="." line="34" column="7" />
         <mark key="^" line="34" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" timestamp="1546473451738">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="27" column="11" filename="$USER_HOME$/Documents/GitHub/ud851-Exercises/Lesson01-Favorite-Toys/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
